@@ -1,11 +1,13 @@
 package com.D121201001.yolonow.Database
 
 import android.content.Context
+import androidx.room.Database
 import com.D121201001.yolonow.Dao.NotesDao
 import androidx.room.Room
 import androidx.room.RoomDatabase
+import com.D121201001.yolonow.Model.Notes
 
-
+//@Database(entities = [Notes::class], version = 1, exportSchema = false)
 abstract class NotesDatabase : RoomDatabase() {
 
     abstract fun myNotesDao() : NotesDao
