@@ -8,4 +8,6 @@ Merupakan sebuah To-Do List App yang berisi daftar activity user dengan bobot ka
 
 **COZ You Only Life Once Now App (Yolo App)**
 
-SOON WILL BE UPDATE!
+
+
+## SOON WILL BE UPDATE!
