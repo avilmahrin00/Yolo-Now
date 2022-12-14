@@ -9,4 +9,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="bar_green">#00C2CB</color>
     <color name="bgbutton_blue">#D0EAF7</color>
+    <color name="green_color">#11D99B</color>
+    <color name="yellow_color">#D9D92F</color>
+    <color name="red_color">#FF0000</color>
 </resources>
