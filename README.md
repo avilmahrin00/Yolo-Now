@@ -12,5 +12,8 @@ https://user-images.githubusercontent.com/112049376/207747730-bd5fb93a-b36f-4ded
 
 **COZ You Only Life Once Now App (Yolo App)**
 
-NAMA : Avil Mahrin
-NIM  : D121201001
+NAMA  : Avil Mahrin
+
+NIM   : D121201001
+
+Kelas : Pemrograman WEB A
