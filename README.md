@@ -16,4 +16,4 @@ NAMA  : Avil Mahrin
 
 NIM   : D121201001
 
-Kelas : Pemrograman WEB A
+Kelas : Pemrograman MOBILE A
